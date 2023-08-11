@@ -1,0 +1,4 @@
+{
+	"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IlJFLU91dGJvdW5kLVRlc3QiLCJpYXQiOjE1MTYyMzkwMjJ9.VzVBN5H5MLa69ObuA7UhBxp7aiyJpZsuZPeO0phs2E8" : "re-out-mpri-test-n",
+	"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6Ik91dGJvdW5kLXRlc3QiLCJpYXQiOjE1MTYyMzkwMjJ9.EsfnwKJ9jR4loC4Plz0Udl-W_60lFvdTpPDvT_1H7Bg" : "app-mpri-dev"
+}
